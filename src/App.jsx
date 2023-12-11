@@ -6,6 +6,7 @@ import Values from "./components/Values/Values";
 import Header from "./components/header/Header";
 import Hero from "./components/hero/Hero";
 import Footer from "./components/Footer/Footer";
+import "./app.css";
 
 function App() {
   return (

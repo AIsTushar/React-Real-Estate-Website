@@ -9,6 +9,9 @@
 - **Home page**  
   ![Screenshot](/public/ScreenShot/landing_page.jpeg?raw=true "Home Page")
 
+- **Responsive Home page In Mobile**  
+  ![Screenshot](/public/ScreenShot/responsive.png?raw=true "Home Page")
+
 ## Setup
 
 1. Clone the repository:
@@ -24,13 +27,13 @@
    npm install
    ```
 
-3. Run the application::
+3. Run the application:
 
    ```bash
    npm run dev
    ```
 
-4. Or Run the application::
+4. Or Run the application:
 
    ```bash
    yarn run dev
