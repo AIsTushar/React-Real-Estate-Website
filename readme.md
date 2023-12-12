@@ -2,7 +2,39 @@
 
 ![Alt text](/public/ScreenShot/hero.png?raw=true "Real Estate Websit Hero Image")
 
-# <p style="color: red;"> Not Complete yet </p>
+Welcome to React Real Estate Website, a single-page landing page built using React and Vite. This project incorporates various dependencies to enhance its functionality and visual appeal.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following software installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [Vite](https://vitejs.dev/)
+
+## Dependencies
+
+This project utilizes the following dependencies:
+
+- [framer-motion](https://www.framer.com/motion/): A motion library for React that makes it easy to create animations.
+- [react](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [react-accessible-accordion](https://github.com/springload/react-accessible-accordion): An accessible accordion component for React.
+- [react-countup](https://github.com/glennreyes/react-countup): A lightweight React component that counts up to a specified number.
+- [react-dom](https://reactjs.org/docs/react-dom.html): Provides DOM-specific methods that can be used at the top level of your app.
+- [react-icons](https://react-icons.github.io/react-icons/): A set of icon libraries for React.
+- [react-outside-click-handler](https://github.com/shipshapecode/react-outside-click-handler): A React component that triggers a callback when a click occurs outside of an element.
+- [swiper](https://swiperjs.com/): A modern mobile touch slider with hardware-accelerated transitions.
+
+## Features
+
+- **Smooth Animations**: Utilizes framer-motion for smooth and engaging animations.
+- **Accordion Section**: Implements an accessible accordion component for displaying information.
+- **Countup Section**: Features a countup component for dynamic and animated number displays.
+- **Icon Integration**: Incorporates a variety of icons using the react-icons library.
+- **Outside Click Handling**: Utilizes a component to detect and handle clicks outside a specified element.
+- **Responsive Slider**: Implements the Swiper library for a responsive and touch-friendly slider.
 
 ### Screenshot of the application
 
